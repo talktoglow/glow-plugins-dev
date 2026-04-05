@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "glow": {
+      "type": "http",
+      "url": "https://agent-api.dev.talktoglow.app/mcp"
+    }
+  }
+}

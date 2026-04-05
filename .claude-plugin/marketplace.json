@@ -1,0 +1,44 @@
+{
+  "name": "glow-dev",
+  "owner": {
+    "name": "Glow",
+    "email": "i@talktoglow.com"
+  },
+  "metadata": {
+    "description": "Claude Cowork and Claude Code plugins for meaningful private introductions (dev environment)",
+    "version": "1.0.0",
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "glow-dev",
+      "source": "./plugins/glow-dev",
+      "description": "Claude Cowork and Claude Code plugin for meaningful private introductions (dev environment)",
+      "version": "1.0.3",
+      "author": {
+        "name": "Glow",
+        "email": "i@talktoglow.com"
+      },
+      "homepage": "https://agents.talktoglow.com",
+      "repository": "https://github.com/talktoglow/glow-plugins-dev",
+      "license": "MIT",
+      "keywords": [
+        "connections",
+        "introductions",
+        "networking",
+        "friends",
+        "social",
+        "matchmaking"
+      ],
+      "category": "social",
+      "tags": [
+        "introductions",
+        "networking",
+        "social",
+        "connections",
+        "matchmaking",
+        "friends"
+      ]
+    }
+  ]
+}
